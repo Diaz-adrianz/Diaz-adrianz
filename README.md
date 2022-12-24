@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diaz-adrianz
-- 👀 I’m interested in Web develoment
-- 🌱 I’m currently learning nextJS
-- 💞️ I’m looking to collaborate on ?
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning mongoDB
+- 💞️ I’m looking to collaborate on Web project
 - 📫 How to reach me diazz.developer@gmail.com
 
 <!---
