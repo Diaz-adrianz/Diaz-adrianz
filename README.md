@@ -3,14 +3,14 @@ A MERN developer🎯 from Indonesia.
 
 - 👨‍💻 Full Stack MERN Developer
 - 😎 Ready to make our project cooler than ever
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning mongoDB
-- 💞️ I’m looking to collaborate on Web project
-- 📫 How to reach me: [instagram](https://www.instagram.com) - [@dazveloper.json](https://www.instagram.com/dazveloper.json) || [@zaid.jsx](https://www.instagram.com/zaid.jsx)  
+- 👀 I’m interested in Web/Mobile development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on Web/Mobile project
+- 📫 How to reach me: [instagram](https://www.instagram.com) - [@dazveloper.json](https://www.instagram.com/dazveloper.json) || [@zaid.dart](https://www.instagram.com/zaid.jsx)  
 
 <br/>
 
-## 💻 Languanges 
+## 💻 Tech Stack
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -20,6 +20,7 @@ A MERN developer🎯 from Indonesia.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 <br/>
 
