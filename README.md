@@ -2,8 +2,6 @@
 
 My name is Diaz 👦🏻, I build things for Web and Mobile 📱, I deliver exceptional digital experiences ✨ that meets user needs, wants, and problems 👥. And don't forget to striving building developer-friendly code 👌🏻 to ensure future efficiency 🔮 and maintainability development 🚧.
 
-<br />
-
 ## 👨‍💻 About Me
 
 - 🤓 18 years old programmer
@@ -14,10 +12,9 @@ My name is Diaz 👦🏻, I build things for Web and Mobile 📱, I deliver exce
 - 🌱 I’m currently learning NextJS and making some project boilerplates
 - 💞️ I like design, music, and sketch drawing
 
-<br/>
-
 ## ⚡ My Code Tech Stack
 
+<p>
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-TypeScript-3178c8?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=next.js&logoColor=black" />
@@ -41,28 +38,23 @@ My name is Diaz 👦🏻, I build things for Web and Mobile 📱, I deliver exce
 <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/-Gitlab-e24529?style=flat-square&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
+</p>
+
+<br />
+
+## 🤝🏼 Connect with Me
+
+<a target="_blank" href="https://dzco.netlify.app"><img src="https://img.shields.io/badge/portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a target="_blank" href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/diaz-adriansyah"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.fiverr.com/diaz_adrianz"><img src="https://img.shields.io/badge/fiverr-00ac1d.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+<a target="_blank" href="https://instagram.com/zaid.jsx"><img src="https://img.shields.io/badge/main%20instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a target="_blank" href="https://instagram.com/chocoding.in"><img src="https://img.shields.io/badge/project%20instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/>
 
 ## 🐈‍⬛ My Github Stats
 
-<img align='left' width="56%" src="https://github-readme-stats.vercel.app/api?username=Diaz-adrianz&show_icons=true&include_all_commits=true&theme=radical" />
+<img align='left' width="54%" src="https://github-readme-stats.vercel.app/api?username=Diaz-adrianz&show_icons=true&include_all_commits=true&theme=radical" />
 
-<img align='right' width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz-adrianz&layout=compact&theme=radical" />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## 🤝🏼 Connect with Me
-
-<a href="https://dzco.netlify.app"><img src="https://img.shields.io/badge/portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/diaz-adriansyah"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.fiverr.com/diaz_adrianz"><img src="https://img.shields.io/badge/fiverr-00ac1d.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-<a href="https://instagram.com/zaid.jsx"><img src="https://img.shields.io/badge/main%20instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://instagram.com/chocoding.in"><img src="https://img.shields.io/badge/project%20instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img align='right' width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz-adrianz&layout=compact&theme=radical" />
