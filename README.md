@@ -4,7 +4,7 @@ My name is Diaz 👦🏻, I build things for Web and Mobile 📱, I deliver exce
 
 ## 👨‍💻 About Me
 
-- 🤓 18 years old programmer
+- 🤓 junior programmer
 - 🧐 Interested in Web/Mobile development project
 - 💼 Currently working at IT company as a Fullstack Developer
 - 🎓 With 3 years of IT education as a Vocational High School Graduate
