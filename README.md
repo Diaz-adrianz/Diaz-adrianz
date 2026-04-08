@@ -58,3 +58,5 @@ My name is Diaz 👦🏻, I build things for Web and Mobile 📱, I deliver exce
 <img align='left' width="54%" src="https://github-readme-stats.vercel.app/api?username=Diaz-adrianz&show_icons=true&include_all_commits=true&theme=radical" />
 
 <img align='right' width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz-adrianz&layout=compact&theme=radical" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Diaz-adrianz&theme=react&hide_border=true)](https://git.io/streak-stats)
