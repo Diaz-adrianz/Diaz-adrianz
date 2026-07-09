@@ -48,7 +48,7 @@ I’m **Diaz**. I build software that solves real-world problems and delivers ex
 <a target="_blank" href="https://www.fiverr.com/diaz_adrianz"><img src="https://img.shields.io/badge/fiverr-00ac1d.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 <a target="_blank" href="https://instagram.com/diaz.adrianz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br />
+##
 
 <img align='left' width="53%" src="https://github-stats-extended.vercel.app/api?username=Diaz-adrianz&include_all_commits=true&theme=transparent&hide_border=true" />
 
