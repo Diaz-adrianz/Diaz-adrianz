@@ -42,11 +42,13 @@ I’m **Diaz**. I build software that solves real-world problems and delivers ex
 
 ## Connect with Me
 
-<a target="_blank" href="https://dzco.netlify.app"><img src="https://img.shields.io/badge/portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a target="_blank" href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/diaz-adriansyah"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://www.fiverr.com/diaz_adrianz"><img src="https://img.shields.io/badge/fiverr-00ac1d.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/diaz.adrianz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p>
+  <a target="_blank" href="https://diaz.adrianz.me"><img src="https://img.shields.io/badge/Portfolio-diaz.adrianz.me-0266cc?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a target="_blank" href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/Email-diaz.developer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/diaz-adriansyah"><img src="https://img.shields.io/badge/Linkedin-diaz%20adriansyah-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://www.fiverr.com/diaz_adrianz"><img src="https://img.shields.io/badge/Fiverr-diaz_adrianz-00ac1d?style=flat-square&logo=fiverr&logoColor=white" /></a>
+  <a target="_blank" href="https://instagram.com/diaz.adrianz"><img src="https://img.shields.io/badge/Instagram-diaz.adrianz-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
 
 ##
 
