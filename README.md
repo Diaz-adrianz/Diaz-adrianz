@@ -1,8 +1,8 @@
-## 👋🏼 Hi There
+# 👋🏼 Hi There
 
 I’m **Diaz**. I build software that solves real-world problems and delivers exceptional user experiences. I’m passionate about writing clean, developer-friendly code that is efficient, scalable, and easy to maintain.
 
-### About Me
+## About Me
 
 - 🧐 Interested in Software (Web, Mobile) development project
 - 💼 Currently working at IT company as a Fullstack Developer
@@ -11,7 +11,7 @@ I’m **Diaz**. I build software that solves real-world problems and delivers ex
 - 🌱 I’m currently researching various technologies, including their development workflows and operational practices.
 - 💞️ I like coding, coffe, and cycling
 
-### Languages I Speak
+## Languages I Speak
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
@@ -40,7 +40,7 @@ I’m **Diaz**. I build software that solves real-world problems and delivers ex
 <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
 </p>
 
-### Connect with Me
+## Connect with Me
 
 <a target="_blank" href="https://dzco.netlify.app"><img src="https://img.shields.io/badge/portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a target="_blank" href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -48,7 +48,7 @@ I’m **Diaz**. I build software that solves real-world problems and delivers ex
 <a target="_blank" href="https://www.fiverr.com/diaz_adrianz"><img src="https://img.shields.io/badge/fiverr-00ac1d.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 <a target="_blank" href="https://instagram.com/diaz.adrianz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-### My Github Stats
+<br />
 
 <img align='left' width="53%" src="https://github-stats-extended.vercel.app/api?username=Diaz-adrianz&include_all_commits=true&theme=transparent&hide_border=true" />
 
