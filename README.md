@@ -1,18 +1,17 @@
 ## 👋🏼 Hi There
 
-My name is Diaz 👦🏻, I build things for Web and Mobile 📱, I deliver exceptional digital experiences ✨ that meets user needs, wants, and problems 👥. And don't forget to striving building developer-friendly code 👌🏻 to ensure future efficiency 🔮 and maintainability development 🚧.
+I’m **Diaz**. I build software that solves real-world problems and delivers exceptional user experiences. I’m passionate about writing clean, developer-friendly code that is efficient, scalable, and easy to maintain.
 
-## 👨‍💻 About Me
+### About Me
 
-- 🤓 junior programmer
-- 🧐 Interested in Web/Mobile development project
+- 🧐 Interested in Software (Web, Mobile) development project
 - 💼 Currently working at IT company as a Fullstack Developer
-- 🎓 With 3 years of IT education as a Vocational High School Graduate
+- 🎓 With 5 years of IT education as a Vocational High School Graduate and University
 - 💻 2 years of working experience in the IT industry as a Software Engineer
-- 🌱 I’m currently learning NextJS and making some project boilerplates
-- 💞️ I like design, music, and sketch drawing
+- 🌱 I’m currently researching various technologies, including their development workflows and operational practices.
+- 💞️ I like coding, coffe, and cycling
 
-## ⚡ My Code Tech Stack
+### Languages I Speak
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
@@ -26,37 +25,34 @@ My name is Diaz 👦🏻, I build things for Web and Mobile 📱, I deliver exce
 <img src="https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-5382A1?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/-NestJS-d9224C?style=flat-square&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostgreSQL-2f4983?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySql-31526b?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-47a24b?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-VS%20Code-24aaed?style=flat-square&logo=visualstudiocode" />
 <img src="https://img.shields.io/badge/-Visual%20Studio-a175d7?style=flat-square&logo=visualstudio" />
-<img src="https://img.shields.io/badge/-Figma-8b35d0?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-ec4f31?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/-Gitlab-e24529?style=flat-square&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
 </p>
 
-<br />
-
-## 🤝🏼 Connect with Me
+### Connect with Me
 
 <a target="_blank" href="https://dzco.netlify.app"><img src="https://img.shields.io/badge/portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a target="_blank" href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a target="_blank" href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/diaz-adriansyah"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.fiverr.com/diaz_adrianz"><img src="https://img.shields.io/badge/fiverr-00ac1d.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/zaid.jsx"><img src="https://img.shields.io/badge/main%20instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/chocoding.in"><img src="https://img.shields.io/badge/project%20instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a target="_blank" href="https://instagram.com/diaz.adrianz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br/>
+### My Github Stats
 
-## 🐈‍⬛ My Github Stats
+<img align='left' width="54%" src="https://github-stats-extended.vercel.app/api?username=Diaz-adrianz&show_icons=true&include_all_commits=true&theme=radical" />
 
-<img align='left' width="54%" src="https://github-readme-stats.vercel.app/api?username=Diaz-adrianz&show_icons=true&include_all_commits=true&theme=radical" />
+<img align='right' width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Diaz-adrianz&layout=compact&theme=radical" />
 
-<img align='right' width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz-adrianz&layout=compact&theme=radical" />
+<img align='left' width="100%" style="margin-top:16px;" src="https://streak-stats.demolab.com?user=Diaz-adrianz&theme=radical" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diaz-adrianz&theme=react&hide_border=true)](https://git.io/streak-stats)
