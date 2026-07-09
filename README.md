@@ -50,9 +50,9 @@ I’m **Diaz**. I build software that solves real-world problems and delivers ex
 
 ### My Github Stats
 
-<img align='left' width="55%" src="https://github-stats-extended.vercel.app/api?username=Diaz-adrianz&include_all_commits=true&theme=transparent&hide_border=true" />
+<img align='left' width="52%" src="https://github-stats-extended.vercel.app/api?username=Diaz-adrianz&include_all_commits=true&theme=transparent&hide_border=true" />
 
-<img align='right' width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Diaz-adrianz&layout=compact&theme=transparent&hide_border=true" />
+<img align='right' width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Diaz-adrianz&layout=compact&theme=transparent&hide_border=true" />
 
 <img align='left' width="100%" src="https://streak-stats.demolab.com?user=Diaz-adrianz&theme=transparent&hide_border=true" />
 
