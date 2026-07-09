@@ -43,6 +43,7 @@ I’m **Diaz**. I build software that solves real-world problems and delivers ex
 ## Connect with Me
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=Diaz-adrianz&color=0266cc&style=flat-square" />
   <a target="_blank" href="https://diaz.adrianz.me"><img src="https://img.shields.io/badge/Portfolio-diaz.adrianz.me-0266cc?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a target="_blank" href="mailto:diazz.developer@gmail.com?subject=[GitHub]%20Hi%20Diazz!%20🔥"><img src="https://img.shields.io/badge/Email-diaz.developer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/diaz-adriansyah"><img src="https://img.shields.io/badge/Linkedin-diaz%20adriansyah-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
